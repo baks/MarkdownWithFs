@@ -55,7 +55,9 @@
     <Compile Include="Parser.fs" />
     <Compile Include="WithParsec.fs" />
     <Compile Include="HTMLFormat.fs" />
+    <Compile Include="PostProcessing.fs" />
     <None Include="ParserPlayground.fsx" />
+    <None Include="References.fsx" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
