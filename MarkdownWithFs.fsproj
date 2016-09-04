@@ -58,6 +58,8 @@
     <Compile Include="PostProcessing.fs" />
     <None Include="ParserPlayground.fsx" />
     <None Include="References.fsx" />
+    <None Include="WordCounting.fsx" />
+    <None Include="HeadingNumbering.fsx" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
